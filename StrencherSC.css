@@ -1,0 +1,45 @@
+.size14-e6ZScH.title-eS5yk3::before {
+    content: "Strencher⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀";
+}
+.channel-2QD9_O[aria-label*="direct message"] .name-uJV0GL .overflow-WK9Ogt::before,
+.username-Af3M5Y::before,
+.username-3KYl0N::before,
+.username-1A8OIy::before,
+.roleColor-rz2vM0::before,
+.username-2b1r56::before,
+.nameAndDecorators-5FJ2dg,
+.name-uJV0GL,
+.name-23GUGE,
+.mention::before {
+    font-size: 1rem;
+    font-weight: 600;
+    content: "Strencher aka "!important;
+}
+.channel-2QD9_O[aria-label*="direct message"] .avatar-VxgULZ,
+.avatar-SmRMf2 .avatar-VxgULZ,
+.avatar-1BDn8e .avatar-VxgULZ,
+.userPopout-3XzG_A .avatar-VxgULZ,
+.avatar-3EQepX .avatar-VxgULZ,
+.listAvatar-1NlAhb .avatar-VxgULZ,
+.membersWrap-2h-GB4 .avatar-VxgULZ,
+.avatar-1BDn8e.clickable-1bVtEA,
+.avatar-3W3CeO,
+.wrapper-3t9DeA,
+.childWrapper-anI2G9, 
+.wrapper-1BJsBx,
+.replyAvatar-1K9Wmr {
+    content: url(https://cdn.discordapp.com/avatars/415849376598982656/a_1eb44ed607d75dca952eed9095e71f35.png?size=4096.png)!important;
+}
+.avatar-3tNQiO {
+    background-image: url(https://cdn.discordapp.com/avatars/415849376598982656/a_1eb44ed607d75dca952eed9095e71f35.png?size=4096.png)!important;
+}
+/*my watermark*/
+.titleBar-AC4pGV::after {
+    content: "Strencher";
+    color: rgb(153, 153, 153);
+    position: absolute;
+    left: 10px;
+}
+.wordmark-2iDDfm > svg {
+  width: 0px;
+}
